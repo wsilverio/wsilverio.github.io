@@ -1,0 +1,10 @@
+canvas{ 
+	display: block; 
+	outline: 0px; 
+	margin-bottom: 1.5em; 
+}
+
+#p5-sketch-center{
+    margin-left: auto;
+    margin-right: auto
+}
